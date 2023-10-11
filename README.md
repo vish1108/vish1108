@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishal1108
+- 👋 Hi, I’m @vish1108
 - 👀 I’m interested in ... technology
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ... anyone
