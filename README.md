@@ -38,5 +38,3 @@ src="https://img.shields.io/github/followers/vish1108?logo=github&style=for-the-
 <a href="http://www.github.com/vish1108"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vish1108&stroke=0891b2&background=000000&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 <a href="https://github.com/vish1108" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish1108&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vish1108&color=blue)
